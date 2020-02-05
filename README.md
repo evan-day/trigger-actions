@@ -4,7 +4,7 @@ This is a very quick script that generates an empty commit with the output of a 
 
 # How To Use
 
-* Place the script in your repository
-* Update your `.gitignore` and any other ignores you have (Docker, Jekyll, etc) if you don't want this in your repo with the script name
-* Give yourself execution permissions if you need to
+* Place the script in your repository.
+* Update your `.gitignore` and any other ignores you have (Docker, Jekyll, etc) if you don't want this included with your code.
+* Give yourself execution permissions if you need to.
 * Run the script whenever you want to rerun your Actions workflow really quick!
